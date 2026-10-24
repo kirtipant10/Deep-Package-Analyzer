@@ -1,0 +1,8 @@
+@'
+*.exe
+dpi_engine
+output.pcap
+__pycache__/
+*.pyc
+.vscode/
+'@ | Set-Content .gitignore
